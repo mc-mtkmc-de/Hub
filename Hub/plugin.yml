@@ -1,0 +1,9 @@
+name: Hub
+version: 1.0
+author: Tempoo50
+main: de.hub.main.Hub
+
+commands:
+   Hub:
+      usage: /hub
+      description: Teleportiere dich zum Hub!
